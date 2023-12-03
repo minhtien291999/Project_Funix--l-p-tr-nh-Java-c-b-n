@@ -1,11 +1,21 @@
-# Project_Funix--l-p-tr-nh-Java-c-b-n
-Gồm 5 nội dung chính (chi tiết các bài tập nằm trong phần hướng dẫn assignment):
-
+# Title : 
+Introduction : Tập trung vào việc vận dụng các kiến thức cơ bản về lập trình java hướng đối tượng để ứng dụng vào việc giải quyết một số từng bài toán cụ thể.
+Bài sẽ bao gồm 5 nội dung chính (chi tiết các bài tập nằm trong phần hướng dẫn assignment):
 Đọc hiểu/phân tích yêu cầu đề bài.
 Lên ý tưởng, giải pháp và cách giải quyết bài toán trên giấy.
 Dựa trên giải pháp đã đưa ra, thực hiện viết code cho giải pháp.
 Thực hiện chạy chương trình, nhập dữ liệu để kiểm tra xem chương trình có hoạt động đúng theo yêu cầu?
 Tiến hành sửa lỗi nếu phát sinh.
+Với mỗi nội dung bên trên, chúng ta sẽ cần đáp ứng các yêu cầu sau:
+
+Phân tích rõ những gì đề bài yêu cầu, tránh bỏ sót thông tin cũng như đi lệch hướng.
+Với mỗi đề bài, liệt kê các giải pháp lên giấy và lựa chọn giải pháp tối ưu, phù hợp nhất. Cuối cùng là triển khai ý tưởng.
+Quá trình code phải bám sát giải pháp đã đưa ra để đảm bảo không phát sinh nhiều lỗi tiềm ẩn.
+Thực hiện test chương trình với các bộ tham số đầu vào khác nhau, kiểm tra kết quả đầu ra đảm bảo đúng theo yêu cầu bài toán.
+
+Install : Elipse IDE :java
+
+Use : Giải quyết các bài toán : 
 
 Bài 1 :Nếu nhập vào chuỗi:
 CONG thì thực hiện gọi hàm tinhCong()
