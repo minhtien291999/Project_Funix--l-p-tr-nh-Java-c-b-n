@@ -1,4 +1,4 @@
-# Title : 
+# Title : Thực hành lập trình Java cơ bản
 Introduction : Tập trung vào việc vận dụng các kiến thức cơ bản về lập trình java hướng đối tượng để ứng dụng vào việc giải quyết một số từng bài toán cụ thể.
 Bài sẽ bao gồm 5 nội dung chính (chi tiết các bài tập nằm trong phần hướng dẫn assignment):
 Đọc hiểu/phân tích yêu cầu đề bài.
